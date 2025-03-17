@@ -1,0 +1,26 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+.venv/
+nhsmchatbot.env/
+
+# Ignore database files
+*.db
+*.sqlite3
+
+# Ignore logs and temporary files
+*.log
+temp_*/
+
+# Ignore system files (Mac & Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environment & dependency files
+venv/
+node_modules/
