@@ -1,7 +1,12 @@
 # NHSM-Hackathon-Project-Healthcare-Assistant
 
 Welcome to **Healsense AI** – an advanced healthcare assistant designed to analyze text, images, and audio to provide accurate medical insights and doctor recommendations.
-We build agents for each of the work using Agno(Agentic AI)
+We build agents for each of the work using Agno(Agentic AI) 
+
+Model used:
+Qwen
+Deepseek for reasoning
+Google Gemini API
 
 📝 TEXT QUERY ANALYSIS --- 
 Let's start with the Text Query Mode. Here, users can ask health-related questions, and our AI agent will provide precise medical insights. For example, if I type 'What are the symptoms of diabetes?', the AI instantly provides a detailed response. Not only that, it detects the disease from the response and automatically recommends top specialists for diabetes from our doctor database.
